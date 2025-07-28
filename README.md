@@ -1,11 +1,11 @@
 **🌐 BERT News Topic Classifier: Procedure & Workflow
 🔄 Overall Workflow**
 
-**Data Collection → Preprocessing → Tokenization
+Data Collection → Preprocessing → Tokenization
 Model Fine-tuning → Evaluation → Deployment
-**
 
-📊** Step-by-Step Procedure**
+
+📊**Step-by-Step Procedure**
 **1. Data Acquisition & Preprocessing**
 Dataset: AG News (120K headlines, 4 classes)
 **Key Operations:**
